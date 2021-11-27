@@ -43,5 +43,18 @@ A minimalist page for my interests and work
 
 ## Proposals
 For a better understanding of the things I am interested in and working on now...
+
 [Honors Thesis: Concentration Inequalities for the Median (and why they matter)]
-[A Graph Theoretic Approach to Multiscale Functional Connectivity Estimation](Tung%2CNathan_ResearchProposal.pdf)
+
+[A Graph Theoretic Approach to Multiscale Functional Connectivity Estimation](https://github.com/ntung88/me/blob/gh-pages/Tung%2CNathan_ResearchProposal.pdf)
+
+## Code
+Unfortunately much of my work lives in private repos...
+
+[Neuro-Hotnet Codebase](https://github.com/ntung88/NeuroHotnet)
+
+All the R code for the algorithms in Neuro-Hotnet and running experiments.
+
+[Trading Algorithms](https://github.com/ntung88/Trading_Algorithms)
+
+Just messing around with some algorithmic trading strategies in Python, mostly as an intellectual exercise.
