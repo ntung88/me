@@ -46,6 +46,8 @@ For a better understanding of the things I am interested in and working on now..
 
 [A Graph Theoretic Approach to Multiscale Functional Connectivity Estimation](Multiscale_Proposal.pdf)
 
+## [CV](CV.pdf)
+
 ## Code
 Unfortunately much of my work lives in private repos...
 
