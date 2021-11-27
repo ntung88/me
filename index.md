@@ -49,7 +49,7 @@ For a better understanding of the things I am interested in and working on now..
 ## Code
 Unfortunately much of my work lives in private repos...
 
-[Neuro-Hotnet Codebase](https://github.com/ntung88/NeuroHotnet)
+[Neuro-Hotnet](https://github.com/ntung88/NeuroHotnet)
 
 All the R code for the algorithms in Neuro-Hotnet and running experiments.
 
