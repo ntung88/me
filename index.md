@@ -44,7 +44,7 @@ For a better understanding of the things I am interested in and working on now..
 
 [Honors Thesis: Concentration Inequalities for the Median (and why they matter)]
 
-[A Graph Theoretic Approach to Multiscale Functional Connectivity Estimation](https://github.com/ntung88/me/blob/gh-pages/Tung%2CNathan_ResearchProposal.pdf)
+[A Graph Theoretic Approach to Multiscale Functional Connectivity Estimation](Tung%2CNathan_ResearchProposal.pdf)
 
 ## Code
 Unfortunately much of my work lives in private repos...
