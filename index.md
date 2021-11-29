@@ -38,40 +38,40 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ## Publications and Preprints
 
-&emsp [Neuro-Hotnet: A Graph Theoretic Approach for Brain FC Estimation](https://arxiv.org/abs/2111.08118)
+&emsp; [Neuro-Hotnet: A Graph Theoretic Approach for Brain FC Estimation](https://arxiv.org/abs/2111.08118)
 
 ## Proposals
 For a better understanding of the things I am interested in and working on now...
 
-&emsp [Honors Thesis: Concentration Inequalities for the Median (and why they matter)]
+&emsp; [Honors Thesis: Concentration Inequalities for the Median (and why they matter)]
 
-&emsp [A Graph Theoretic Approach to Multiscale Functional Connectivity Estimation](Multiscale_Proposal.pdf)
+&emsp; [A Graph Theoretic Approach to Multiscale Functional Connectivity Estimation](Multiscale_Proposal.pdf)
 
 ## [Curriculum Vitae](CV.pdf)
 
 ## Code
 Unfortunately much of my work lives in private repos...
 
-&emsp [Neuro-Hotnet](https://github.com/ntung88/NeuroHotnet)
+&emsp; [Neuro-Hotnet](https://github.com/ntung88/NeuroHotnet)
 
-&emsp All the R code for the algorithms in Neuro-Hotnet and running experiments. Mostly written myself except code from Higgins et al.'s 2018 paper.
+&emsp; All the R code for the algorithms in Neuro-Hotnet and running experiments. Mostly written myself except code from Higgins et al.'s 2018 paper.
 
-&emsp [Dynamical Movement Primitives](https://github.com/babbatem/skills_kin)
+&emsp; [Dynamical Movement Primitives](https://github.com/babbatem/skills_kin)
 
-&emsp Code I modified for RL research on chaining Dynamical Movement Primitives using soft actor-critic to learn robust motor skills.
+&emsp; Code I modified for RL research on chaining Dynamical Movement Primitives using soft actor-critic to learn robust motor skills.
 
-&emsp [Citadel/Correlation One East Coast Regional Data Open](https://github.com/dashamet/east-coast-datathon)
+&emsp; [Citadel/Correlation One East Coast Regional Data Open](https://github.com/dashamet/east-coast-datathon)
 
-&emsp Creation of a novel diversity index for films that won 1st and $20k. Statistical analysis done on provided data as well as data obtained from computer vision on film posters to extract demographics of the depicted cast. I personally wrote the computer vision and poster scraping code.
+&emsp; Creation of a novel diversity index for films that won 1st and $20k. Statistical analysis done on provided data as well as data obtained from computer vision on film posters to extract demographics of the depicted cast. I personally wrote the computer vision and poster scraping code.;
 
-&emsp [Trading Algorithms](https://github.com/ntung88/Trading_Algorithms)
+&emsp; [Trading Algorithms](https://github.com/ntung88/Trading_Algorithms)
 
-&emsp Just messing around with some algorithmic trading strategies in Python, mostly as an intellectual exercise.
+&emsp; Just messing around with some algorithmic trading strategies in Python, mostly as an intellectual exercise.
 
-&emsp [Solo](https://github.com/ntung88/Solo)
+&emsp; [Solo](https://github.com/ntung88/Solo)
 
-&emsp Rudimentary beginnings of an app to help plan nights out featuring live ratings of venues/events, a map interface, and snapchat synchronization.
+&emsp; Rudimentary beginnings of an app to help plan nights out featuring live ratings of venues/events, a map interface, and snapchat synchronization.
 
-&emsp [Tron](https://github.com/ntung88/Tron)
+&emsp; [Tron](https://github.com/ntung88/Tron)
 
-&emsp Python code for an AI to play light bike (Tron).
+&emsp; Python code for an AI to play light bike (Tron).
