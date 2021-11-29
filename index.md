@@ -43,9 +43,9 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ## Proposals
 For a better understanding of the things I am interested in and working on now...
 
-&emsp; [Honors Thesis: Concentration Inequalities for the Median (and why they matter)]
-
 &emsp; [A Graph Theoretic Approach to Multiscale Functional Connectivity Estimation](Multiscale_Proposal.pdf)
+
+&emsp; [Honors Thesis: Concentration Inequalities for the Median (and why they matter)]
 
 ## [Curriculum Vitae](CV.pdf)
 
