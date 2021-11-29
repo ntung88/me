@@ -37,14 +37,14 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
 
 ## Publications and Preprints
-[Neuro-Hotnet: A Graph Theoretic Approach for Brain FC Estimation](https://arxiv.org/abs/2111.08118)
+  [Neuro-Hotnet: A Graph Theoretic Approach for Brain FC Estimation](https://arxiv.org/abs/2111.08118)
 
 ## Proposals
 For a better understanding of the things I am interested in and working on now...
 
-[Honors Thesis: Concentration Inequalities for the Median (and why they matter)]
+  [Honors Thesis: Concentration Inequalities for the Median (and why they matter)]
 
-[A Graph Theoretic Approach to Multiscale Functional Connectivity Estimation](Multiscale_Proposal.pdf)
+  [A Graph Theoretic Approach to Multiscale Functional Connectivity Estimation](Multiscale_Proposal.pdf)
 
 ## [Curriculum Vitae](CV.pdf)
 
