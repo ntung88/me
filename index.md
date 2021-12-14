@@ -45,7 +45,7 @@ For a better understanding of the things I am interested in and working on now..
 
 &emsp; [A Graph Theoretic Approach to Multiscale Functional Connectivity Estimation](Multiscale_Proposal.pdf)
 
-&emsp; [Honors Thesis: A Broad Investigation of Median-Based Concentration Inequalities](Honors_Thesis_Proposal%20(1).pdf)
+&emsp; [Honors Thesis: A Broad Investigation of Median-Based Concentration Inequalities](HonorsThesisProposal.pdf)
 
 ## [Curriculum Vitae](CV.pdf)
 
